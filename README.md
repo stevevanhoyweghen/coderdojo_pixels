@@ -84,3 +84,4 @@ Hier een voorbeeld, een ESP32 C3 SuperMini die met een 330 Ohm weerstand verbond
 
 ## Versie info
 - Versie 1, 13/10/2025, Steve Van Hoyweghen: Eerste versie, te gebruiken in combinatie met de bijbehorende sketches.
+- Versie 2, 15/10/2025, Steve Van Hoyweghen: Fritzing ESP32 C3 SuperMini.
