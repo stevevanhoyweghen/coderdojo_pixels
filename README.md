@@ -70,7 +70,8 @@ Vraag jouw coach om te helpen, want als je WS2812b-pixels fout aansluit worden z
     - 5V → 5V
     - GND → GND
 
-Hier een voorbeeld met een ESP32 C3 SuperMini die met een 330 Ohm weerstand verbonden is aan een WS2812b. De tekening toont slechts één WS2812b-pixel, maar wij gebruiken een ring met meerdere pixels.
+Hier een voorbeeld, een ESP32 C3 SuperMini die met een 330 Ohm weerstand verbonden is aan een WS2812b. De tekening toont slechts één WS2812b-pixel, maar wij gebruiken een ring met meerdere pixels.
+
 ![Voorbeeld esp32 C3 SuperMini WS2812b verbinding](./image/esp32-C3-SuperMini-WS2812b-verbinding.png  "Voorbeeld esp32 C3 SuperMini WS2812b verbinding")
 
 ## Nu begint het echte werk!
